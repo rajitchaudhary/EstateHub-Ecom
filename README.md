@@ -1,6 +1,7 @@
 # EstateHub - Real Estate E-commerce Platform
 
 EstateHub is a full-stack real estate e-commerce platform built with the MERN stack (MongoDB, Express, React, and Node.js). This project provides secure and seamless user authentication, user-friendly features for managing property listings, advanced search functionality, and easy deployment solutions.
+Deploy link - https://estatehub-ecom.onrender.com/
 
 ## 🔑 Features
 
