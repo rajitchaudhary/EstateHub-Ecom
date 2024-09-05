@@ -24,7 +24,6 @@ Deploy link - https://estatehub-ecom.onrender.com/
 
 ### 5. Deployment Made Easy
 - **Render** platform used for easy and free deployment of the MERN app.
-- Learn how to deploy your app and make it accessible to the public.
 
 ## 🚀 Tech Stack
 
